@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+person:
+  last-name: lisi 
+  age: 18
+  boss: false
+  date: 2017/12/12
+  map: {k1: v1,k2: v2}
+  list:
+    - lisi
+    - zhaoliu
+  dog: 
+    name: 小狗
+    age: 2
+    
