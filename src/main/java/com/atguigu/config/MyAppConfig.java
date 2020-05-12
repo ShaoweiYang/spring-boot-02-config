@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ImportResource;
  * @Configuration 指明当前类是一个配置类（其实用@Component 是一样的），就是用来代替之前的Spring配置文件的
  * 
  * 在配置文件中是用bean标签添加组件的
- * 测试333.
+ * 测试444.
  *
  */
 //@ImportResource(locations = {"classpath:beans.xml"})
